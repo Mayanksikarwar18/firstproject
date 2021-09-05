@@ -1,8 +1,19 @@
 html,body{
     
     align-items: center;
-    color: rgb(5, 5, 5);
+    color: rgb(0, 0, 0);
     background-image: url(/img/reinis-birznieks-lu5uhEAy2lI-unsplash.jpg);
-    background-size: contain;
+    background-size: cover;
     
+}
+
+h1 {
+ text-align: center;
+ font-size: 500%;
+
+}
+li {
+    text-align: center;
+    font-size: 300%;
+    line-height: 200%;
 }
